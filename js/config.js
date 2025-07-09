@@ -110,6 +110,22 @@ const API_SITES = {
     //    api: 'https://ikunzyapi.com/api.php/provide/vod',
     //    name: 'iKun资源'
     //},
+    muodou: {
+        api: 'https://www.mdzyapi.com/api.php/provide/vod',
+        name: '墨斗'
+    },
+    hongniu: {
+        api: 'https://www.hongniuzy2.com/api.php/provide/vod',
+        name: '红牛'
+    },
+    shandian: {
+        api: 'https://cj.lziapi.com/api.php/provide/vod',
+        name: '闪电资源'
+    },
+    liangzi: {
+        api: 'https://sdzyapi.com/api.php/provide/vod/from/sdm3u8',
+        name: '量子'
+    },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
