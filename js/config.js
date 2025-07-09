@@ -39,10 +39,10 @@ const API_SITES = {
         api: 'https://tyyszy.com/api.php/provide/vod',
         name: '天涯资源',
     },
-    // xiaomaomi: {
-    //     api: 'https://zy.xiaomaomi.cc/api.php/provide/vod',
-    //     name: '小猫咪资源',
-    // },
+    ffy: {
+         api: 'https://cj.ffzyapi.com/api.php/provide/vod',
+         name: '非凡源',
+    },
     ffzy: {
         api: 'http://ffzy5.tv/api.php/provide/vod',
         name: '非凡影视',
@@ -57,18 +57,18 @@ const API_SITES = {
         api: 'https://360zy.com/api.php/provide/vod',
         name: '360资源',
     },
-    //iqiyi: {
-    //    api: 'https://www.iqiyizyapi.com/api.php/provide/vod',
-    //    name: 'iqiyi资源',
-    //},
+    tyzy: {
+        api: 'https://www.911ysw.top/tianyi.php/provide/vod',
+        name: '天翼资源',
+    },
     wolong: {
         api: 'https://wolongzyw.com/api.php/provide/vod',
         name: '卧龙资源',
     }, 
-    //hwba: {
-    //    api: 'https://cjhwba.com/api.php/provide/vod',
-    //    name: '华为吧资源',
-    //},
+    smzy: {
+        api: 'https://img.smdyw.top/api.php/provide/vod',
+        name: '神马资源',
+    },
     jisu: {
         api: 'https://jszyapi.com/api.php/provide/vod',
         name: '极速资源',
@@ -78,10 +78,10 @@ const API_SITES = {
         api: 'https://dbzy.tv/api.php/provide/vod',
         name: '豆瓣资源',
     },
-    //mozhua: {
-    //    api: 'https://mozhuazy.com/api.php/provide/vod',
-    //    name: '魔爪资源',
-    //},
+    gszy: {
+        api: 'https://api.guangsuapi.com/api.php/provide/vod',
+        name: '光速资源',
+    },
     mdzy: {
         api: 'https://www.mdzyapi.com/api.php/provide/vod',
         name: '魔都资源',
@@ -106,10 +106,10 @@ const API_SITES = {
         api: 'https://wwzy.tv/api.php/provide/vod',
         name: '旺旺短剧'
     },
-    //ikun: {
-    //    api: 'https://ikunzyapi.com/api.php/provide/vod',
-    //    name: 'iKun资源'
-    //},
+    xlzy: {
+        api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod',
+        name: '新浪资源'
+    },
     muodou: {
         api: 'https://www.mdzyapi.com/api.php/provide/vod',
         name: '墨斗'
@@ -122,13 +122,68 @@ const API_SITES = {
         api: 'https://cj.lziapi.com/api.php/provide/vod',
         name: '闪电资源'
     },
-    liangzi: {
+    lzzy: {
         api: 'https://sdzyapi.com/api.php/provide/vod/from/sdm3u8',
         name: '量子'
+    },
+    nnzy: {
+        api: 'https://api.niuniuzy.me/api.php/provide/vod',
+        name: '牛牛'
+    },
+    snzy: {
+        api: 'https://suoniapi.com/api.php/provide/vod',
+        name: '索尼'
+    },
+    hyzy: {
+        api: 'https://www.huyaapi.com/api.php/provide/vod',
+        name: '虎牙'
+    },
+    hhzy: {
+        api: 'https://hhzyapi.com/api.php/provide/vod',
+        name: '豪华'
+    },
+    yyzy: {
+        api: 'https://cj.yayazy.net/api.php/provide/vod',
+        name: '丫丫'
     },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
+        adult: true
+    },
+    lbzy: {
+        api: 'https://lbapi9.com/api.php/provide/vod',
+        name: '🔞乐播资源',
+        adult: true
+    },
+    155zy: {
+        api: 'https://155api.com/api.php/provide/vod',
+        name: '🔞155',
+        adult: true
+    },
+    askzy: {
+        api: 'https://aosikazy.com/api.php/provide/vod',
+        name: '🔞奥斯卡',
+        adult: true
+    },
+    155zy: {
+        api: 'https://155api.com/api.php/provide/vod',
+        name: '🔞155',
+        adult: true
+    },
+    fhzy: {
+        api: 'http://fhapi9.com/api.php/provide/vod',
+        name: '🔞番号',
+        adult: true
+    },
+    AIvinzy: {
+        api: 'http://lbapiby.com/api.php/provide/vod',
+        name: '🔞AIvin',
+        adult: true
+    },
+    ddzy: {
+        api: 'https://api.ddapi.cc/api.php/provide/vod/at',
+        name: '🔞滴滴资源',
         adult: true
     },
     // 下面是一些成人内容的API源，默认隐藏，使用本项目浏览黄色内容违背项目初衷
