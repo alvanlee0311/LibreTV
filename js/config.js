@@ -130,22 +130,22 @@ const API_SITES = {
         api: 'https://cj.yayazy.net/api.php/provide/vod',
         name: '丫丫'
     },
-    hyzy: {
-        api: 'https://www.huyaapi.com/api.php/provide/vod',
-        name: '虎牙'
-    },
-    hhzy: {
-        api: 'https://hhzyapi.com/api.php/provide/vod',
-        name: '豪华'
-    },
-    gszy: {
-        api: 'https://api.guangsuapi.com/api.php/provide/vod',
-        name: '光速资源',
-    },
-    xlzy: {
-        api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod',
-        name: '新浪资源'
-    },
+    //hyzy: {
+    //    api: 'https://www.huyaapi.com/api.php/provide/vod',
+    //    name: '虎牙'
+    //},
+    //hhzy: {
+    //    api: 'https://hhzyapi.com/api.php/provide/vod',
+    //    name: '豪华'
+    //},
+    //gszy: {
+    //    api: 'https://api.guangsuapi.com/api.php/provide/vod',
+    //    name: '光速资源',
+    //},
+    //xlzy: {
+    //    api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod',
+    //    name: '新浪资源'
+    //},
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
