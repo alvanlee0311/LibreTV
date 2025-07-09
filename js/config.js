@@ -57,18 +57,18 @@ const API_SITES = {
         api: 'https://360zy.com/api.php/provide/vod',
         name: '360资源',
     },
-    iqiyi: {
-        api: 'https://www.iqiyizyapi.com/api.php/provide/vod',
-        name: 'iqiyi资源',
-    },
+    //iqiyi: {
+    //    api: 'https://www.iqiyizyapi.com/api.php/provide/vod',
+    //    name: 'iqiyi资源',
+    //},
     wolong: {
         api: 'https://wolongzyw.com/api.php/provide/vod',
         name: '卧龙资源',
     }, 
-    hwba: {
-        api: 'https://cjhwba.com/api.php/provide/vod',
-        name: '华为吧资源',
-    },
+    //hwba: {
+    //    api: 'https://cjhwba.com/api.php/provide/vod',
+    //    name: '华为吧资源',
+    //},
     jisu: {
         api: 'https://jszyapi.com/api.php/provide/vod',
         name: '极速资源',
@@ -78,10 +78,10 @@ const API_SITES = {
         api: 'https://dbzy.tv/api.php/provide/vod',
         name: '豆瓣资源',
     },
-    mozhua: {
-        api: 'https://mozhuazy.com/api.php/provide/vod',
-        name: '魔爪资源',
-    },
+    //mozhua: {
+    //    api: 'https://mozhuazy.com/api.php/provide/vod',
+    //    name: '魔爪资源',
+    //},
     mdzy: {
         api: 'https://www.mdzyapi.com/api.php/provide/vod',
         name: '魔都资源',
@@ -106,10 +106,10 @@ const API_SITES = {
         api: 'https://wwzy.tv/api.php/provide/vod',
         name: '旺旺短剧'
     },
-    ikun: {
-        api: 'https://ikunzyapi.com/api.php/provide/vod',
-        name: 'iKun资源'
-    },
+    //ikun: {
+    //    api: 'https://ikunzyapi.com/api.php/provide/vod',
+    //    name: 'iKun资源'
+    //},
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
