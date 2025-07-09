@@ -78,10 +78,6 @@ const API_SITES = {
         api: 'https://dbzy.tv/api.php/provide/vod',
         name: '豆瓣资源',
     },
-    gszy: {
-        api: 'https://api.guangsuapi.com/api.php/provide/vod',
-        name: '光速资源',
-    },
     mdzy: {
         api: 'https://www.mdzyapi.com/api.php/provide/vod',
         name: '魔都资源',
@@ -105,10 +101,6 @@ const API_SITES = {
     wwzy: {
         api: 'https://wwzy.tv/api.php/provide/vod',
         name: '旺旺短剧'
-    },
-    xlzy: {
-        api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod',
-        name: '新浪资源'
     },
     muodou: {
         api: 'https://www.mdzyapi.com/api.php/provide/vod',
@@ -134,6 +126,10 @@ const API_SITES = {
         api: 'https://suoniapi.com/api.php/provide/vod',
         name: '索尼'
     },
+    yyzy: {
+        api: 'https://cj.yayazy.net/api.php/provide/vod',
+        name: '丫丫'
+    },
     hyzy: {
         api: 'https://www.huyaapi.com/api.php/provide/vod',
         name: '虎牙'
@@ -142,9 +138,13 @@ const API_SITES = {
         api: 'https://hhzyapi.com/api.php/provide/vod',
         name: '豪华'
     },
-    yyzy: {
-        api: 'https://cj.yayazy.net/api.php/provide/vod',
-        name: '丫丫'
+    gszy: {
+        api: 'https://api.guangsuapi.com/api.php/provide/vod',
+        name: '光速资源',
+    },
+    xlzy: {
+        api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod',
+        name: '新浪资源'
     },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
