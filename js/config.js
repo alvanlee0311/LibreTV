@@ -165,11 +165,6 @@ const API_SITES = {
     //    name: '🔞乐播资源',
     //    adult: true
     //},
-    //155zy: {
-    //    api: 'https://155api.com/api.php/provide/vod',
-    //    name: '🔞155',
-    //    adult: true
-    //},
     //askzy: {
     //    api: 'https://aosikazy.com/api.php/provide/vod',
     //    name: '🔞奥斯卡',
