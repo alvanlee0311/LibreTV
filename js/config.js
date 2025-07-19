@@ -126,6 +126,18 @@ const API_SITES = {
         api: 'https://suoniapi.com/api.php/provide/vod',
         name: '索尼'
     },
+     ftys: {
+        api: 'https://www.fantuan.tv/api.php/provide/vod',
+        name: '饭团影视'
+    },
+     ysgc: {
+        api: 'https://cj.lziapi.com/api.php/provide/vod',
+        name: '影视工厂'
+    },
+     qqzy: {
+        api: 'https://www.qiqidys.com/api.php/provide/vod',
+        name: '七七资源'
+    },
     yyzy: {
         api: 'https://cj.yayazy.net/api.php/provide/vod',
         name: '丫丫'
