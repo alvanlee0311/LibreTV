@@ -133,10 +133,6 @@ const CUSTOMER_SITES = {
    nnzy: {
         api: 'https://p2100.net/api.php/provide/vod',
         name: '🔵飘零资源'
-    },
-    hyzy: {
-        api: 'https://www.huyaapi.com/api.php/provide/vod',
-        name: '🔵虎牙'
     }
 };
 
