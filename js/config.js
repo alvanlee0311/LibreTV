@@ -163,7 +163,7 @@ const API_SITES = {
         api: 'https://doudouzy.com/api.php/provide/vod',
         name: '🔞豆豆资源',
         adult: true
-    }，
+    },
     shg: {
         api: 'https://api.sexnguon.com/api.php/provide/vod',
         name: '🔞色嗨国',
