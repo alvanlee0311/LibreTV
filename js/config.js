@@ -26,8 +26,154 @@ const API_SITES = {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
         adult: true
-    }
+    },
     //ARCHIVE https://telegra.ph/APIs-08-12
+    lbzy: {
+        api: 'https://lbapi9.com/api.php/provide/vod',
+        name: '🔞乐播资源',
+        adult: true
+    },
+    askzy: {
+        api: 'https://aosikazy.com/api.php/provide/vod',
+        name: '🔞奥斯卡',
+        adult: true
+    },
+    r155: {
+        api: 'https://155api.com/api.php/provide/vod',
+        name: '🔞155',
+        adult: true
+    },
+    fhzy: {
+        api: 'http://fhapi9.com/api.php/provide/vod',
+        name: '🔞番号',
+        adult: true
+    },
+    AIvinzy: {
+        api: 'http://lbapiby.com/api.php/provide/vod',
+        name: '🔞AIvin',
+        adult: true
+    },
+    ddzy: {
+        api: 'https://api.ddapi.cc/api.php/provide/vod/at',
+        name: '🔞滴滴资源',
+        adult: true
+    },
+     ckzy: {
+         api: 'https://www.ckzy1.com/api.php/provide/vod',
+         name: '🔞CK资源',
+         adult: true
+     },
+     jkun: {
+         api: 'https://jkunzyapi.com/api.php/provide/vod',
+         name: '🔞鸡坤资源',
+         adult: true
+     },
+     bwzy: {
+         api: 'https://api.bwzym3u8.com/api.php/provide/vod',
+         name: '🔞百万资源',
+         adult: true
+     },
+     souav: {
+         api: 'https://api.souavzy.vip/api.php/provide/vod',
+         name: '🔞搜av资源',
+         adult: true
+     },
+     lsb: {
+         api: 'https://apilsbzy1.com/api.php/provide/vod',
+         name: '🔞老色逼资源',
+         adult: true
+     },
+     huangcang: {
+         api: 'https://hsckzy.vip/api.php/provide/vod',
+         name: '🔞黄色仓库',
+         adult: true,
+         detail: 'https://hsckzy.vip/api.php/provide/vod'
+     },
+     yutu: {
+         api: 'https://yutuzy10.com/api.php/provide/vod',
+         name: '🔞玉兔资源',
+         adult: true
+     },
+    slzy: {
+        api: 'https://slapibf.com/api.php/provide/vod',
+        name: '🔞森林',
+        adult: true
+    },
+    dnzzy: {
+        api: 'https://apidanaizi.com/api.php/provide/vod',
+        name: '🔞大奶子资源',
+        adult: true
+    },
+    xjzy: {
+        api: 'https://api.xiaojizy.live/provide/vod',
+        name: '🔞小鸡资源',
+        adult: true
+    },
+    xbzy: {
+        api: 'https://www.xxibaozyw.com/api.php/provide/vod',
+        name: '🔞细胞网资源',
+        adult: true
+    },
+    kbzy: {
+        api: 'https://gayapi.com/api.php/provide/vod',
+        name: '🔞快播资源',
+        adult: true
+    },
+    thzy: {
+        api: 'https://thzy1.me/api.php/provide/vod',
+        name: '🔞桃花资源',
+        adult: true
+    },  
+    jpzy: {
+        api: 'https://www.jingpinx.com/api.php/provide/vod',
+        name: '🔞精品资源',
+        adult: true
+    },
+    xfzy: {
+        api: 'https://xzybb2.com/api.php/provide/vod',
+        name: '🔞幸资源',
+        adult: true
+    },
+    r91zy: {
+        api: 'https://91jpzyw.com/api.php/provide/vod',
+        name: '🔞91资源',
+        adult: true
+    },
+    fqzy: {
+        api: 'https://fqzy.me/api.php/provide/vod',
+        name: '🔞番茄资源',
+        adult: true
+    },
+    xbzy: {
+        api: 'https://xingba111.com/api.php/provide/vod',
+        name: '🔞杏吧资源',
+        adult: true
+    },
+    yyzy: {
+        api: 'https://yyzywcj.com/api.php/provide/vod',
+        name: '🔞优优资源',
+        adult: true
+    },
+    swzy: {
+        api: 'https://siwazyw.tv/api.php/provide/vod',
+        name: '🔞丝袜资源',
+        adult: true
+    },  
+    jpzy: {
+        api: 'https://doudouzy.com/api.php/provide/vod',
+        name: '🔞豆豆资源',
+        adult: true
+    }，
+    shg: {
+        api: 'https://api.sexnguon.com/api.php/provide/vod',
+        name: '🔞色嗨国',
+        adult: true
+    },  
+    xxbzy: {
+        api: 'https://xingba111.com/api.php/provide/vod',
+        name: '🔞性吧资源',
+        adult: true
+    }
 };
 
 // 定义合并方法
